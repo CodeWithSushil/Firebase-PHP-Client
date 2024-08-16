@@ -1,2 +1,2 @@
-# FirebaseRDB-Client
-Communicate to Firebase Realtime Database
+# Firebase-Client
+Communicate to Firebase Realtime Database.
