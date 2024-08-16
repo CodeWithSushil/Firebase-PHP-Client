@@ -14,7 +14,7 @@
             "email": "sushilkumbhar77@gmail.com"
         }
     ],
-    "license": "Mozilla Public License",
+    "license": "MPL-2.0",
     "minimum-stability": "stable",
     "require": {
       "php": "^7.0"
