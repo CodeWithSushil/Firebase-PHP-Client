@@ -2,7 +2,7 @@
     "name": "firebase/firebase-client",
     "description": "Firebase client for php.",
     "type": "project",
-    "version": "1.0.0",
+    "version": "0.0.1-alpha",
     "autoload": {
         "psr-4": {
             "Firebase\\Firebase\\": "src/"
@@ -15,7 +15,8 @@
         }
     ],
     "license": "MPL-2.0",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
       "php": "^7.0"
     }
