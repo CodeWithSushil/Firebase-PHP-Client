@@ -1,8 +1,8 @@
 <?php
 namespace Firebase\Firebase;
 
-class Firebase
-{
+class Firebase{
+  private $url;
   function __construct($url=null){
     if(isset($url)){
       $this->url = $url;
