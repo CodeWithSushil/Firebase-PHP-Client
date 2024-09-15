@@ -5,7 +5,7 @@
     "version": "0.0.2-alpha",
     "autoload": {
         "psr-4": {
-            "Firebase\\Firebase\\": "src/"
+            "Firebase\\": "src/"
         }
     },
     "authors": [

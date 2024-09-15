@@ -1,5 +1,5 @@
 <?php
-namespace Firebase\Firebase;
+namespace Firebase;
 use Exception;
 
 class Firebase
